@@ -186,11 +186,6 @@ We performed qualitative evaluation using a set of 9 diverse prompts covering:
 * Scientific misconceptions
 
 For each prompt, we compared the **baseline (pre-DPO)** model response with the **fine-tuned (post-DPO)** response.
-
----
-
-Here is your evaluation section formatted cleanly in **Markdown**, ready to paste into your README later:
-
 ---
 
 ## Detailed Evaluation Results (Before vs After DPO)
